@@ -41,6 +41,5 @@ def add_two_hex_numbers(a : str, b : str) -> str:
         res.append(decimal_to_hex(carry))
 
     return res[::-1]
-# пизда варечки самая вкусная :333
 # a = 14 b = A11C
 print("".join(add_two_hex_numbers("14", "A11C")))
