@@ -1,4 +1,4 @@
-# remove_spaces("kal     sobaki") -> "kal sobaki"
+# remove_spaces("kot     sobaka") -> "kot sobaka"
 #  a b
 #    ^
 #     ^          
